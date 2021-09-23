@@ -1,0 +1,2 @@
+nome,ra,grupo
+Cassio Teieira Novaes,2100474,23
